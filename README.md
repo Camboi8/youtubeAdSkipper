@@ -1,14 +1,10 @@
 # YouTube Ad Skipper
 instructions for setup:
 1. download and put files (other than the readme) into a folder (name doesn't matter)
-
-*need to turn on developer mode in the place where u manage extensions
-
-2. upload the folder into extensions
-3. reload existing youtube pages (or make a new one)
-
-**can check if it works by checking for the "slay queen" alert when youtube loads
-
+2a. need to turn on developer mode in the place where u manage extensions
+2b. upload the folder (in that same place)
+3a. reload existing youtube pages (or open a new one)
+3b. check if successful by checking for the "slay queen" alert when youtube loads
 
 instructions after download:
 
