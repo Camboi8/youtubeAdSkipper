@@ -1,0 +1,16 @@
+{
+    "name": "ur mom!",
+    "description": "inject js code into websites",
+    "version": "6.9.6.9",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.youtube.com/*"
+            ],
+            "js": [
+                "youtube.js"
+            ]
+        }
+    ]
+}
