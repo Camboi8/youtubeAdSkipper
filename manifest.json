@@ -1,6 +1,6 @@
 {
-    "name": "ur mom!",
-    "description": "inject js code into websites",
+    "name": "YouTube Ad Skipper",
+    "description": "Custom Extension to Speedup YouTube Ads (and videos too!)",
     "version": "6.9.6.9",
     "manifest_version": 3,
     "content_scripts": [
