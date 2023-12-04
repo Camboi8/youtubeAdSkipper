@@ -1,10 +1,10 @@
-{
+{ //for google to name extension, give description, give version
     "name": "ur mom!",
     "description": "inject js code into websites",
     "version": "6.9.6.9",
     "manifest_version": 3,
     "content_scripts": [
-        {
+        { //i have no idea what this does, all i know is that it works
             "matches": [
                 "https://*.youtube.com/*"
             ],
