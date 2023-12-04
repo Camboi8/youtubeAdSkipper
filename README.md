@@ -6,6 +6,7 @@ instructions for setup:
 4. reload existing youtube pages (or open a new one)
 5. check if successful by checking for the "slay queen" alert when youtube loads
 
-instructions after download:
-
-press e = 12x; press r = 1x; press y = 2x;
+keybinds:
+1. r = 1x speed
+2. y = 2x speed
+3. e = 12x speed
