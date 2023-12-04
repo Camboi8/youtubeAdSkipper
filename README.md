@@ -1,7 +1,7 @@
 # youtubeAdSkipper
 
-instructions to download:
-put these files into a folder (name doesn't matter)
+instructions to setup:
+download and put files (other than the readme) into a folder (name doesn't matter)
 *need to turn on developer mode in the place where u manage extensions
 upload the folder (in that same place)
 reload existing youtube pages (or make a new one)
