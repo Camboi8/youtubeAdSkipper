@@ -1,6 +1,6 @@
 const site = window.location.hostname
 
-if (site.includes("youtube.com") || site.includes("schoology.com")){
+if (site.includes("youtube.com")){
     alert("slay queen");
     document.addEventListener('keydown', (event) => {
         var name = event.key;
